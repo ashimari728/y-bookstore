@@ -1,0 +1,22 @@
+header {
+  background-color: darksalmon;
+}
+.title {
+  text-align: center;
+}
+
+.relateLogIn {
+  text-align: center;
+}
+
+.information {
+  border: solid;
+  margin: 60px 200px 60px 200px;
+  padding: 40px;
+}
+.birthday {
+  display: flex;
+}
+.btnSignIn {
+  background-color: gold;
+}
